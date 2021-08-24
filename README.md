@@ -2,7 +2,7 @@
 
 1. pubmed_crawler is a tool for collecting titles and abstracts of lteratures automactially for any input keywords in Pubmed website
 
-
+usage:
 download the script
 
 running in terminal
