@@ -16,6 +16,7 @@ collect their titles and abstracts which will then be stored in a .txt file in t
 
 example:
 
+command line: python pubmed_crawler "fusion protein"
 
 
 
