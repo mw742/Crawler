@@ -1,6 +1,10 @@
-# Pubmed_crawler 
+#Crawler 
 
-It is a tool for collecting titles and abstracts of lteratures automactially for any input keywords in Pubmed website(Python 3.7)
+It is tool kit to get some information from some websites.
+
+1. Pubmed_crawler.py
+
+For collecting titles and abstracts of lteratures automactially for any input keywords in Pubmed website(Python 3.7)
 
 usage:
 
@@ -18,5 +22,6 @@ example:
 
 command line: python pubmed_crawler.py "fusion protein"
 
+2. PDB_crawler.py
 
-
+For collecting a series of PDB structures baed on their PDB ID.
