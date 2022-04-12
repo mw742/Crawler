@@ -87,6 +87,7 @@ for ID in PDB_ID:
     print("work_path:", dir)
     #get_real_url(real_url)
     #DownloadTif(real_url)
+    #以下内容参考https://www.zkxjob.com/534
     rs=requests.get(real_url, headers={"Connection":"close"}, verify=False)
     #print(type(rs))
     open("/Users/wmm/desktop/"+ID+".pdb", "wb").write(rs.content)
